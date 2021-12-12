@@ -93,7 +93,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   [Download Python](https://www.python.org/downloads/)
   
   
-#### Windows
+#### Windows ( Windows 10, 11)
 
 * Latest pip
   ```sh
@@ -124,7 +124,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   pip install pillow
   ```
   
-#### Linux
+#### Linux (Ubuntu 20.04)
 
 * Upgrade Repositories
   ```sh
