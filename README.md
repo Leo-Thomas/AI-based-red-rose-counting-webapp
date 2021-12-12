@@ -317,7 +317,7 @@ Don't forget to give the project a star!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
