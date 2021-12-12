@@ -365,4 +365,4 @@ Project Link: [https://github.com/Leo-Thomas/AI-Rose-counting-system-web-app](ht
 [issues-url]:https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp/issues
 [license-shield]: https://img.shields.io/github/license/Leo-Thomas/AI-based-red-rose-counting-webapp.svg?style=for-the-badge
 [license-url]: https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp/blob/main/LICENSE
-[product-screenshot]: Images/product.jpeg
+[product-screenshot]: Images/product.png
