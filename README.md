@@ -28,7 +28,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -36,24 +35,37 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#os-suported">Os Suported</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisites</a>
+                    <ul>
+        <li><a href="#windows">Windows</a></li>
+        <li><a href="#linux">Linux</a></li>
+      </ul></li>
+        <li><a href="#installation">Installation</a>
+            <ul>
+        <li><a href="#windows">Windows</a></li>
+        <li><a href="#linux">Linux</a></li>
+      </ul>
+        </li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Usage</a>
+    <ul>
+        <li><a href="#counting-by-uploading-a-file">Uploading a file</a></li>
+        <li><a href="#counting-using-the-camera">Using the camera</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -78,6 +90,11 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 * [Bootstrap](https://getbootstrap.com)
 * [TensorFlow](https://www.tensorflow.org/)
 * [ReportLab](https://www.reportlab.com/)
+
+### OS Suported
+
+* Microsoft Windows: 10, 11
+* Lunix: Ubuntu 20.04
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
