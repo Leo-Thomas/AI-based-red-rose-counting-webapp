@@ -98,8 +98,6 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Important considerations
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -108,8 +106,18 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 * Python (3.8.8 recomended)
   
   [Download Python](https://www.python.org/downloads/)
-  
-  
+
+
+**Important** (_for Windows only_)
+
+   1. Make sure to add Python to path during Python installation
+
+  <img src="Images/P2.png" alt="Logo" width="660" heigh="406">
+
+  2. Make sure to disable path length limit during Python installation
+
+  <img src="Images/P1.png" alt="Logo" >
+
 #### Windows
 
 * Latest pip
@@ -122,7 +130,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   ```  
 * Django
   ```sh
-  python -m pip install Django
+  pip install Django
   ```
 * TensorFlow
   ```sh
