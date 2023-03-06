@@ -357,7 +357,7 @@ Mike Bermeo - [LinkedIn](https://www.linkedin.com/in/mike-bermeo-1a8869128/) - m
 
 Juan Brito - [LinkedIn](http://www.linkedin.com/in/juan-brito-a93497b9) - juan.brito@yachaytech.edu.ec
 
-Carlos Macancela - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - carlos.macancela@yachaytech.edu.ec
+Carlos Macancela - [LinkedIn](https://www.linkedin.com/in/carlosmacancela/) - carlos.macancela@yachaytech.edu.ec
 
 <br>
 <br>
